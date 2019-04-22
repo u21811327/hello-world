@@ -26,3 +26,8 @@ hoge
 [Google](http://www.google.co.jp/)  
 [Googleを見る][Google]
 [google]:  http://www.yahoo.co.jp
+これは*イタリック*です
+これは**ボールド**です
+これは***イタリック＆ボールド***です
+![alt](画像URL)
+![代替文字列]（URL"タイトル"）
