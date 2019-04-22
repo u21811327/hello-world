@@ -13,6 +13,9 @@
 foge
 fufa  
 piyo
->引用
+>引用  
 >引用
 >>多重引用
+print'hoge'  
+print'hoge'  
+これは'インラインコード'です
