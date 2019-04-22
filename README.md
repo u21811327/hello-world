@@ -25,4 +25,5 @@ hoge
 
 [Google](http://www.google.co.jp/)  
 [Googleを見る][Google]
-[google]:  http://www.yahoo.co.jp
+[google]:
+  http://www.yahoo.co.jp
